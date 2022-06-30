@@ -8,7 +8,7 @@ Progress so far:
 
 3.Basic CSS and JS templates written .
 
-4. Working on FrontEnd.....
+4.Working on FrontEnd.....
 
 
 
