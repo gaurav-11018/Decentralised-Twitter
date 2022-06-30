@@ -1,8 +1,17 @@
 # Decentralised-Twitter
 
-work in progress..
-will complete this by tonight and then update the readme
+Progress so far:
+
+1.Contracts are written .
+
+2.React app intialised .
+
+3.Basic CSS and JS templates written .
+
+4. Working on FrontEnd.....
 
 
 
-bye for now
+
+
+
